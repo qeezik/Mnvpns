@@ -1,4 +1,9 @@
-#name:Зарубежные/белые списки trojan://humanity@172.64.152.23:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#https://t.me/ShadowsocksM1
+#profile-title: Белые/зарубежка TGK@bpnqewzz
+
+
+
+
+trojan://humanity@172.64.152.23:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#https://t.me/ShadowsocksM1
 vless://eeedbede-b07f-46b7-b842-08db497ba306@178.154.252.255:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=eh.vk.com&type=tcp#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20@restlyconnect
 vless://0792bfd8-ac2b-44b9-8409-c448334e41ae@141.98.188.65:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=RQvzYCW0H-c-MiJtVMFwE-F2IOzVlHn4QItU34IpM2U&security=reality&sid=42fee40f46c3c9c2&sni=de20.strelkavpn.com&type=tcp#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20@restlyconnect
 vless://e0ff43e6-76ed-42f3-a1f0-1bbd5f8ee59d@217.114.15.157:443?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=Y2gKx6Wvg0kWTSwtDZUMwoig1x9sxhx4kUg_VrYnUXc&security=reality&sid=bcbfa46faa4370d2&sni=github.com&type=xhttp#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20@restlyconnect
