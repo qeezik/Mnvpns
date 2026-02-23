@@ -1,6 +1,6 @@
 #profile-title:Вэпэнчек
 trojan://humanity@172.64.152.23:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#TGK@bpnqewzz
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#%F0%9F%87%AB%F0%9F%87%B7@SimChin_iR%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%DB%8C%D8%AFСВИНИНА НЕ ДОРОГО!
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#%F0%9F%87%AB%F0%9F%87%B7FСВИНИНА НЕ ДОРОГО!
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click#Китаец4БЕТА!
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@152.53.46.200:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&security=reality&sid=8dc4fccb2bcfc99d&sni=at.jojack.ru&type=tcp#🇦🇹КитаецБЕТА!
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?allowInsecure=1#🇩🇪Китаец2БЕТА!
