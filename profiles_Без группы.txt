@@ -1,7 +1,7 @@
 #profile-title:Вэпэнчек
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@152.53.46.200:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&security=reality&sid=8dc4fccb2bcfc99d&sni=at.jojack.ru&type=tcp#🇦🇹КитаецБЕТА!
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?allowInsecure=1#🇩🇪Китаец2БЕТА!
-vmess://4c205c81-5694-43fe-a287-af563a2ebc05@u9.89060004.xyz:443?encryption=auto&path=%2FdjA07iUsSp0K2Fo4gds7cXpDB5nO5&security=tls&type=ws#🇺🇸Китаец3БЕТА!
+vmess://4c205c81-5694-43fe-a287-af563a2ebc05@u9.89060004.xyz:443?encryption=auto&path=%2FdjA07iUsSp0K2Fo4gds7cXpDB5nO5&security=tls&type=ws#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_15
 vless://8bb67cb3-0653-4069-b831-ff6071464d6d@194.113.38.243:447?encryption=none&fp=chrome&pbk=_tBiRkButwPxxa2HHuNufy0Tyr_0SViQZReJT75JVTI&security=reality&serviceName=xyz&sid=d49d578f280fd83a&sni=eh.vk.com&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%20%5Br%5D
 vless://8bb67cb3-0653-4069-b831-ff6071464d6d@white77.alexanderoff.store:1100?encryption=none&fp=chrome&pbk=_tBiRkButwPxxa2HHuNufy0Tyr_0SViQZReJT75JVTI&security=reality&serviceName=xyz&sid=d49d578f280fd83a&sni=eh.vk.com&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%20%5Br%5D%20LTE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdzhpU0V4UU5hb2JaUFk5Yko0RVBJ@212.192.14.234:24441#%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%7C%20LiVPN
