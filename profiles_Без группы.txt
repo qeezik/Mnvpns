@@ -1,5 +1,5 @@
 #profile-title:Вэпэнчек
-trojan://humanity@172.64.152.23:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#TGK@bpnqewzz
+trojan://humanity@172.64.152.23:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#ПРОКСИТГ@bpnqewzz
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&type=ws#%D0%AF%20%D0%BF%D0%B8%D0%B4%D0%BE%D1%80%D0%B0%D1%81
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#%F0%9F%87%AB%F0%9F%87%B7%D0%A1%D0%92%D0%98%D0%9D%D0%98%D0%9D%D0%90%20%D0%9D%D0%95%20%D0%94%D0%9E%D0%A0%D0%9E%D0%93%D0%9E!
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@152.53.46.200:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&security=reality&sid=8dc4fccb2bcfc99d&sni=at.jojack.ru&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%D0%9A%D0%B8%D1%82%D0%B0%D0%B5%D1%86%D0%91%D0%95%D0%A2%D0%90!
