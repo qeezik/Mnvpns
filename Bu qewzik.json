@@ -169,7 +169,7 @@
         "auth": "noauth"
       },
       "sniffing": {
-[16.07.2026 13:23] Begulalalal: "enabled": true,
+        "enabled": true,
         "routeOnly": false,
         "destOverride": [
           "http",
@@ -331,7 +331,7 @@
           "tcp": [
             {
               "type": "fragment",
-[16.07.2026 13:23] Begulalalal: "settings": {
+                "settings": {
                 "delay": "1-3",
                 "length": "10-30",
                 "packets": "tlshello",
@@ -485,7 +485,7 @@
           "udp": [
             {
               "type": "noise",
-[16.07.2026 13:23] Begulalalal: "settings": {
+                "settings": {
                 "noise": [
                   {
                     "delay": "1-3",
@@ -642,7 +642,7 @@
         },
         "grpcSettings": {
           "authority": "",
-[16.07.2026 13:23] Begulalalal: "multiMode": false,
+          "multiMode": false,
           "serviceName": "wlgrpc"
         },
         "network": "grpc",
@@ -786,7 +786,7 @@
               }
             }
           ],
-[16.07.2026 13:23] Begulalalal: "udp": [
+            "udp": [
             {
               "type": "noise",
               "settings": {
@@ -921,7 +921,7 @@
           "host": "cdn.tracker.yandex.net",
           "mode": "auto",
           "path": "/static/js/main.js",
-[16.07.2026 13:23] Begulalalal: "scMaxConcurrentPosts": 10,
+          "scMaxConcurrentPosts": 10,
           "scMaxEachPostBytes": 1000000,
           "scMinPostsIntervalMs": "30"
         }
@@ -981,5 +981,5 @@
       "statsOutboundDownlink": true
     }
   },
-  "stats": {}
-}
+  "stats": {} 
+ }
